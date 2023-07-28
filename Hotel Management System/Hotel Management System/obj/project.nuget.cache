@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqKtRYPPXS/UwFiJ9wStDO4UUwVrYsvAvkYbZ6JOMMADbuglcBnGoeQwarbZuqTXCevEEkOKcepIfWUy5xiV9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toufa\\source\\repos\\Hotel Management System\\Hotel Management System\\Hotel Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toufa\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.9\\guna.ui2.winforms.2.0.3.9.nupkg.sha512",
+    "C:\\Users\\toufa\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\toufa\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

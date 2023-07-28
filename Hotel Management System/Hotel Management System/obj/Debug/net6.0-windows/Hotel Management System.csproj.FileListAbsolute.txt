@@ -1,0 +1,24 @@
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\Hotel Management System.exe
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\Hotel Management System.deps.json
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\Hotel Management System.runtimeconfig.json
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\Hotel Management System.dll
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\Hotel Management System.pdb
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel_Management_System.Form1.resources
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel_Management_System.Properties.Resources.resources
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.AssemblyInfoInputs.cache
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.AssemblyInfo.cs
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.dll
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\refint\Hotel Management System.dll
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.pdb
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.genruntimeconfig.cache
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\ref\Hotel Management System.dll
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel Management System.csproj.CopyComplete
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel_Management_System.Dashboard.resources
+C:\Users\toufa\source\repos\Hotel Management System\Hotel Management System\obj\Debug\net6.0-windows\Hotel_Management_System.All_User_Control.UC_AddRoom.resources
